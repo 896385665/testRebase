@@ -1,7 +1,6 @@
 a = 1
 b = 2
 # c = 33
-# d = 4
-# e = 55
-f = 6
-g = 7
+d = 6666
+g = 'fhweu6fefew'
+y = 'hsdbbvsdhb'
